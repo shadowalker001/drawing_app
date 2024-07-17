@@ -20,7 +20,7 @@ A simple drawing application built with Flutter and Riverpod that allows users t
 ![Screenshot 2](assets/screenshots/Screenshot_1721244462.png)
 ![Screenshot 3](assets/screenshots/Screenshot_1721244502.png)
 ![Screenshot 4](assets/screenshots/Screenshot_1721244538.png)
-![Screenshot 5](assets/screenshots/Screenshot_1721244643.png)
+![Screenshot 5](assets/screenshots/Screenshot_1721248832.png)
 
 ## Getting Started
 

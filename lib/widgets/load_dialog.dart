@@ -47,8 +47,11 @@ class LoadDialogState extends State<LoadDialog> {
           itemCount: _files.length,
           itemBuilder: (context, index) {
             return ListTile(
-              title: Text(
-                  _files[index].path.split('/').last), // Display file name.
+              title: Text(_files[index]
+                  .path
+                  .split('/')
+                  .last
+                  .replaceAll('.json', '')), // Display file name.
               onTap: () {
                 widget
                     .onLoad(_files[index]); // Callback when a file is selected.
