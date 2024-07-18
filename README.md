@@ -13,6 +13,10 @@ A simple drawing application built with Flutter and Riverpod that allows users t
 ## Video Demo
 
 ![Video Demo](assets/demo/20240717204904.mp4)
+<video width="320" height="240" controls>
+    <source src="assets/demo/20240717204904.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
 
 ## Screenshots
 <table>
@@ -24,6 +28,12 @@ A simple drawing application built with Flutter and Riverpod that allows users t
   <tr>
     <td><img src="assets/screenshots/Screenshot_1721249371.png" alt="Screenshot 4" width="300"/></td>
     <td><img src="assets/screenshots/Screenshot_1721248832.png" alt="Screenshot 5" width="300"/></td>
+    <td>
+    <video width="320" height="240" controls>
+        <source src="assets/demo/20240717204904.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+    </td>
   </tr>
 </table>
 
