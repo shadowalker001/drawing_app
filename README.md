@@ -12,10 +12,6 @@ A simple drawing application built with Flutter and Riverpod that allows users t
 
 ## Video Demo
 
-[![Demo Video](assets/screenshots/Screenshot_1721249319.png)](assets/demo/20240717204904.mp4)
-
-## YouTube Demo
-
 [![YouTube Demo](https://img.youtube.com/vi/yaYMX4bWkcA/0.jpg)](https://www.youtube.com/watch?v=yaYMX4bWkcA)
 
 
