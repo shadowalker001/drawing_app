@@ -12,11 +12,7 @@ A simple drawing application built with Flutter and Riverpod that allows users t
 
 ## Video Demo
 
-![Video Demo](assets/demo/20240717204904.mp4)
-<video width="320" height="240" controls>
-    <source src="assets/demo/20240717204904.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-</video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yaYMX4bWkcA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Screenshots
 <table>
