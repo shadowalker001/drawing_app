@@ -30,7 +30,7 @@ A simple drawing application built with Flutter and Riverpod that allows users t
 - Flutter SDK
 - Dart SDK
 
-### Installation
+## Installation
 
 1. **Clone the repository:**
     ```bash
@@ -47,6 +47,39 @@ A simple drawing application built with Flutter and Riverpod that allows users t
     ```bash
     flutter run
     ```
+
+## Work Log
+
+| Task                                              | Hours |
+|---------------------------------------------------|-------|
+| Initial Setup                                     | 1     |
+| Implementing Canvas Drawing                       | 3     |
+| Adding Color Change Functionality                 | 1     |
+| Adding Background Color Change Functionality      | 1     |
+| Adding Background Image Functionality             | 2     |
+| Implementing Save and Load Functionality          | 2     |
+| Adding Font Selection                             | 1     |
+| Implementing Undo and Thickness Change            | 1     |
+| Testing and Debugging                             | 2     |
+| Documentation and Final Adjustments               | 1     |
+| **Total**                                         | **15**|
+
+## Feature Difficulty Ratings
+
+| Feature                                                  | Difficulty | Explanation                                                                                          |
+|----------------------------------------------------------|------------|------------------------------------------------------------------------------------------------------|
+| Full-screen canvas for freehand drawing                  | Medium     | Required handling touch events and canvas rendering.                                                 |
+| Change drawing color (at least three colors)             | Easy       | Straightforward implementation of color change functionality.                                        |
+| Clear the canvas                                         | Easy       | Simple state reset functionality.                                                                    |
+| Change the background color (at least three colors)      | Medium     | Required handling additional state and UI updates.                                                   |
+| Change or add background pictures                        | Medium     | Required handling image selection and rendering.                                                     |
+| Save drawings to edit later                              | Medium     | Required serialization and deserialization of drawing data.                                          |
+| Load and edit saved drawings                             | Medium     | Similar complexity as saving functionality.                                                          |
+| App should work in both portrait and landscape orientations | Medium | Required responsive design considerations.                                                           |
+| Write beautifully with pre-selected fonts (at least three fonts) | Medium | Required font management and UI updates.                                                             |
+| Undo the last drawn line (optional)                      | Medium     | Required maintaining a history of drawing actions.                                                   |
+| Change the thickness of the drawing tool (optional)      | Easy       | Simple adjustment of drawing parameters.                                                             |
+
 
 ## Project Structure
 
