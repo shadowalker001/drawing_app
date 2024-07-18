@@ -12,15 +12,16 @@ A simple drawing application built with Flutter and Riverpod that allows users t
 
 ## Video Demo
 
-![Video Demo](assets/demo/20240717204904.mp4)
+<video width="320" height="240" controls>
+  <source src="assets/demo/20240717204904.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## Screenshots
 
-![Screenshot 1](assets/screenshots/Screenshot_1721249319.png)
-![Screenshot 2](assets/screenshots/Screenshot_1721249336.png)
-![Screenshot 3](assets/screenshots/Screenshot_1721249350.png)
-![Screenshot 4](assets/screenshots/Screenshot_1721249371.png)
-![Screenshot 5](assets/screenshots/Screenshot_1721248832.png)
+![Screenshot 1](assets/screenshots/Screenshot_1721249319.png) ![Screenshot 2](assets/screenshots/Screenshot_1721249336.png) ![Screenshot 3](assets/screenshots/Screenshot_1721249350.png)
+
+![Screenshot 4](assets/screenshots/Screenshot_1721249371.png) ![Screenshot 5](assets/screenshots/Screenshot_1721248832.png)
 
 ## Getting Started
 
